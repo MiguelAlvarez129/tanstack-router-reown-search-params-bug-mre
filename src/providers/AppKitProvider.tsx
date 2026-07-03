@@ -40,7 +40,7 @@ createAppKit({
   metadata,
   features: {
     analytics: true // Optional - defaults to your Cloud configuration
-  }
+  },
 })
 
 let appKitInitialized = false;
